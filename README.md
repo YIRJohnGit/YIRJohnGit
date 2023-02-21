@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Irudaya Raj John YR
+- 👋 Hi, I’m Irudaya Raj John Y
 - 👀 I’m interested in DevOps and Technical Product Delivery Lead
 - 🌱 I’m currently learning Data Scientst, Data Analyst, Big Data Engineer, Artificial Intelligence Engineer, DevOps Engineer & Cloud Architect
 - 💞️ I’m looking to collaborate on Development and Product Delivery with the business oweners, and hourly basis consultation on Automated Business Process Implementation
