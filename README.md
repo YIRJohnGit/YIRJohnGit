@@ -1,5 +1,5 @@
 - 👋 Hi, I’m `Irudaya Raj John Y`
-- 👀 I’m interested in **Digital Project Manager and Technical Product Delivery Head**
+- 🤝 I'm looking for collaboration to drive the transformation of **Automated Process-Driven Business Management**.
 - 💞️ I’m looking to collaborate on Development and Product Delivery with the business oweners, and hourly basis consultation on Automated Business Process Implementation
 - 🌱 Addon Skills: Six Sigma Green Belt, PMP, SQL, PHP, Terraform, Kubernetes, Dockere, CICD, BA, Data Scientst, Data Analyst, Big Data Engineer, Artificial Intelligence Engineer
 - 📫 How to reach me?
