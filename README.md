@@ -5,8 +5,8 @@
 
 - 🌱 Supplementary Skills: Alongside my primary skills, which include Six Sigma Green Belt and PMP, I possess proficiency in SQL, PHP, Terraform, Kubernetes, Docker, CICD, Business Analysis (BA), Data Science, Data Analysis, Big Data Engineering, and Artificial Intelligence Engineering.
 
-- 📫 Contact Information:
-Phone: 9886027477
+- 📫 Contact Information:<br>
+Phone: 9886027477<br>
 Email: y_ijohn@yahoo.com
 
 <!---
