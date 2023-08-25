@@ -1,9 +1,13 @@
 - 👋 Hi, I’m `Irudaya Raj John Y`
+
 - 🤝 I'm looking for collaboration to drive the transformation of **Automated Process-Driven Business Management**.
-- 💞️ I’m looking to collaborate on Development and Product Delivery with the business oweners, and hourly basis consultation on Automated Business Process Implementation
-- 🌱 Addon Skills: Six Sigma Green Belt, PMP, SQL, PHP, Terraform, Kubernetes, Dockere, CICD, BA, Data Scientst, Data Analyst, Big Data Engineer, Artificial Intelligence Engineer
-- 📫 How to reach me?
-  - `9886027477`, `y_ijohn@yahoo.com`
+- 💞️ My focus is set on partnering with business owners to contribute to Development and Product Delivery efforts. Additionally, I offer hourly consultation for the implementation of Automated Business Processes.
+
+- 🌱 Supplementary Skills: Alongside my primary skills, which include Six Sigma Green Belt and PMP, I possess proficiency in SQL, PHP, Terraform, Kubernetes, Docker, CICD, Business Analysis (BA), Data Science, Data Analysis, Big Data Engineering, and Artificial Intelligence Engineering.
+
+- 📫 Contact Information:
+Phone: 9886027477
+Email: y_ijohn@yahoo.com
 
 <!---
 YIRJohnGit/YIRJohnGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
