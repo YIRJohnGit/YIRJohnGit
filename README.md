@@ -1,15 +1,27 @@
 # 👋 Hi there, I'm Irudaya Raj John YR
 
-🚀 I help businesses **transform manual processes into automated, process-driven systems** — so you can focus on growth instead of micromanagement.
+🚀 I specialize in **transforming manual business operations into automated, process-driven systems** — so you can focus on scaling your business, not managing tasks.
 
-🤝 I’m looking to **collaborate with business owners, startups, and teams** aiming to streamline operations, enhance delivery pipelines, and embrace automation at scale.
+🤝 I’m actively seeking collaborations with business owners, startups, and teams to streamline workflows, automate delivery pipelines, and build smarter operations.
 
-💼 Whether it's **end-to-end product development** or **hourly consulting**, I bring value with practical implementation of **Automated Business Process Systems**.
+💼 Whether you need **end-to-end development** or **hourly consulting**, I deliver real-world automation strategies backed by deep technical and management expertise.
 
-## 🔧 My Toolbox Includes:
-- 🎯 Certifications: **Six Sigma Green Belt**, **PMP**
-- 💻 Tech Stack: **SQL**, **PHP**, **Terraform**, **Kubernetes**, **Docker**, **CI/CD**
-- 📊 Domains: **Business Analysis**, **Data Science**, **Big Data Engineering**, **AI Engineering**
+## 🏅 Certifications
+- **Cloud Architect**
+- **Data Analyst**
+- **DevOps Engineer**
+- **Data Scientist**
+- **Big Data Engineer**
+- **Artificial Intelligence Engineer**
+- **Digital Project Manager**
+- **Business Analyst**
+- **PMP (Project Management Professional)**
+- **Six Sigma Green Belt**
+
+## 🔧 Skills Snapshot
+- 💻 Tech: **SQL**, **PHP**, **Terraform**, **Kubernetes**, **Docker**, **CI/CD**
+- 🧠 Domains: **Business Analysis**, **Data Science**, **Big Data**, **AI**, **Project Management**
+- 🔄 Tools & Platforms: GitLab, Jenkins, JIRA, Prometheus, Grafana, Linux, Bash, Python
 
 ## 📫 Let’s Connect
 - 📞 Phone: +91 98860 27477  
@@ -17,11 +29,5 @@
 
 ---
 
-> “Build smarter, faster, and more scalable businesses — one automated system at a time.”
+> “Let’s build intelligent systems that run your business, so you don’t have to.”
 
-
-
-<!---
-YIRJohnGit/YIRJohnGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
