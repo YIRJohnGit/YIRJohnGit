@@ -1,13 +1,25 @@
-- 👋 Hi, I’m `Irudaya Raj John Y`
+# 👋 Hi there, I'm Irudaya Raj John YR
 
-- 🤝 I'm looking for collaboration to drive the transformation of **Automated Process-Driven Business Management**.
-- 💞️ My focus is set on partnering with business owners to contribute to Development and Product Delivery efforts. Additionally, I offer hourly consultation for the implementation of Automated Business Processes.
+🚀 I help businesses **transform manual processes into automated, process-driven systems** — so you can focus on growth instead of micromanagement.
 
-- 🌱 Supplementary Skills: Alongside my primary skills, which include Six Sigma Green Belt and PMP, I possess proficiency in SQL, PHP, Terraform, Kubernetes, Docker, CICD, Business Analysis (BA), Data Science, Data Analysis, Big Data Engineering, and Artificial Intelligence Engineering.
+🤝 I’m looking to **collaborate with business owners, startups, and teams** aiming to streamline operations, enhance delivery pipelines, and embrace automation at scale.
 
-- 📫 Contact Information:
-Phone: 9886027477
-Email: y_ijohn@yahoo.com
+💼 Whether it's **end-to-end product development** or **hourly consulting**, I bring value with practical implementation of **Automated Business Process Systems**.
+
+## 🔧 My Toolbox Includes:
+- 🎯 Certifications: **Six Sigma Green Belt**, **PMP**
+- 💻 Tech Stack: **SQL**, **PHP**, **Terraform**, **Kubernetes**, **Docker**, **CI/CD**
+- 📊 Domains: **Business Analysis**, **Data Science**, **Big Data Engineering**, **AI Engineering**
+
+## 📫 Let’s Connect
+- 📞 Phone: +91 98860 27477  
+- 📧 Email: y_ijohn@yahoo.com  
+
+---
+
+> “Build smarter, faster, and more scalable businesses — one automated system at a time.”
+
+
 
 <!---
 YIRJohnGit/YIRJohnGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
